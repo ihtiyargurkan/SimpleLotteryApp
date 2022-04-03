@@ -32,7 +32,7 @@ A lottery app that can generate 6 digit number.
  
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/ihtiyargurkan/Quiz_App/master/screenshot_2.jpg " width="300" height="600">   
+ <img src="https://github.com/ihtiyargurkan/SimpleLotteryApp/blob/master/screenshot2.jfif " width="300" height="600">   
 </p>
 
 <h4 align="center">
@@ -40,7 +40,7 @@ A lottery app that can generate 6 digit number.
 </h4>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/ihtiyargurkan/Quiz_App/master/screenshot_3.jpg " width="300" height="600">   
+ <img src="https://github.com/ihtiyargurkan/SimpleLotteryApp/blob/master/screenshot3.jfif " width="300" height="600">   
 </p>  
   
 <h4 align="center">
@@ -48,13 +48,13 @@ A lottery app that can generate 6 digit number.
 </h4>
   
 <p align="center">
- <img src="https://raw.githubusercontent.com/ihtiyargurkan/Quiz_App/master/screenshot_4.jpg " width="300" height="600">   
+ <img src="https://github.com/ihtiyargurkan/SimpleLotteryApp/blob/master/screenshot4.jfif " width="300" height="600">   
 </p>  
 <h4 align="center">
 5. Results can bee seen there.
 </h4>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/ihtiyargurkan/Quiz_App/master/screenshot_5.jpg " width="300" height="600">   
+ <img src="https://github.com/ihtiyargurkan/SimpleLotteryApp/blob/master/screenshot5.jfif " width="300" height="600">   
 </p>  
   
