@@ -1,22 +1,14 @@
 # SimpleLotteryApp
-A lottery app that can generate 6 digit number.
+A lottery app that can generate 6 digit number. At the tap of the number picker helps user to pick number he/she wanted. After user decided which number to show, add number button adding the circle with the user's number on it within a random color. If number's size reached 6, app will warn user with a toast message. When user at the limit and can't add more numbers, he/she can change the color of the circles randomly. Clear button clears the screen and let user to start lottery again.  
 
 
-<table align="center">
- <thead>
-  <tr>
-   <th> Features </th>
-  </tr>
- </thead>
- <tbody>
-  <tr><td>Lorem Ipsum.</td></tr>
-  <tr><td>Lorem Ipsum.</td></tr>
+
   
 ## Screenshots can be seen as below:
 
 
 <h4 align="center">
-1. Main screen where the user can enter their name
+1. Main screen as it shown.
 </h4>
 
   
@@ -27,7 +19,7 @@ A lottery app that can generate 6 digit number.
  
  
 <h4 align="center">
-2. Question screens
+2. User entered only one numbers. And it appear with a random color.
 </h4>
  
 
@@ -36,7 +28,7 @@ A lottery app that can generate 6 digit number.
 </p>
 
 <h4 align="center">
-3. If user guess the question right, correct answer colored green.
+3. More numbers and circles.
 </h4>
 
 <p align="center">
@@ -44,14 +36,14 @@ A lottery app that can generate 6 digit number.
 </p>  
   
 <h4 align="center">
-4.
+4. User can add 6 circles and numbers.
 </h4>
   
 <p align="center">
  <img src="https://github.com/ihtiyargurkan/SimpleLotteryApp/blob/master/screenshot4.jfif " width="300" height="600">   
 </p>  
 <h4 align="center">
-5. Results can bee seen there.
+5. When circles reach limit, user can change the color of circles.
 </h4>
 
 <p align="center">
